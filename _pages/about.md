@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Title page:Testing"
+title: "WEBSITE UNDER CONSTRUCTION"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-|##### This is a blank page
-Hello world
-
-This is a new line
+This is the academic website for Nuclear fusion student Jasmin Joshi-Thompson B.Sc and is currently under construction. See:
+https://www.linkedin.com/in/jasminjoshi-thompson/

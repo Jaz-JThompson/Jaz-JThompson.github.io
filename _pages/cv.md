@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics (with international studies), University of Birmingham, UK 2021
+* M.S. **M1** European Master of Science in Nuclear Fusion and Engineering Physics, Universidad Carlos III de Madrid (UC3) or Universidad Complutense de Madrid (UCM), Spain, 2022
+* M.S. **M2** European Master of Science in Nuclear Fusion and Engineering Physics, Universität Stuttgart, Germany, 2023 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Researcher and Administrator
+  * Nanoloy
+  * Duties included: Research into trademarks and patents for bespoke products.  Negations with potential machine learning partners and report on the
+applications of ML to battery development
+  * Supervisor: Alex Koszo
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,12 +30,19 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Foreign Languages
+  * English Native
+  * German Confident B2-C1
+  * Spanish Basic A1
+  * Mandarin Basic HSK2
+* Coding languages: Matlab, Python
+  * Machine Learning
+  * Data analysis
+  * Solvers
+* IT skills:
+  * MS Office: Word | PowerPoint | Project | Excel | Outlook | Teams |
+  * Other: LaTeX | Blender | Photoshop | Zoom |
+
 
 Publications
 ======
