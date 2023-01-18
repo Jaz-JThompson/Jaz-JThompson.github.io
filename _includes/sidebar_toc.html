@@ -1,0 +1,12 @@
+<div id="sidebar" class="sidebar">
+    <div class="sidebar__inner">
+      {% if page.toc %}
+      <div class="sidebar__toc">
+        <h3>{{ page.toc_label | default: "Table of Contents" }}</h3>
+        <i class="fa fa-{{ page.toc_icon | default: "list" }}"></i>
+        <div id="toc"></div>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  

@@ -17,16 +17,16 @@ Education
 
 Work experience
 ======
+* HiWi
+  * University of Stuttgart
+  * Duties include: Research into machine learning and interactive data analysis code in Python
+
 * Researcher and Administrator
   * Nanoloy
   * Duties included: Research into trademarks and patents for bespoke products.  Negations with potential machine learning partners and report on the
 applications of ML to battery development
   * Supervisor: Alex Koszo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -35,7 +35,7 @@ Skills
   * German Confident B2-C1
   * Spanish Basic A1
   * Mandarin Basic HSK2
-* Coding languages: Matlab, Python
+* Coding languages: Matlab, Python, Markdown
   * Machine Learning
   * Data analysis
   * Solvers
@@ -64,4 +64,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams

@@ -197,6 +197,9 @@ defaults:
       type: posts
     values:
       layout: single
+      toc: true 
+      toc_label: "Contents"
+      toc_icon: "cog"
       author_profile: true
       read_time: true
       comments: true
@@ -265,6 +268,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-toc
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
