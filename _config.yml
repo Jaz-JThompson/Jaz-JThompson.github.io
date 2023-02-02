@@ -198,8 +198,8 @@ defaults:
     values:
       layout: single
       toc: true 
-      toc_label: "Contents"
-      toc_icon: "cog"
+      toclabel: "Contents"
+      tocicon: "cog"
       author_profile: true
       read_time: true
       comments: true
