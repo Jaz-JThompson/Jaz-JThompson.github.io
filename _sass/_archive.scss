@@ -57,14 +57,14 @@
   }
 }
 
-.archive__item-excerpt {
-  margin-top: 0;
-  font-size: $type-size-6;
+// .archive__item-excerpt {
+//   margin-top: 0;
+//   font-size: $type-size-6;
 
-  & + p {
-    text-indent: 0;
-  }
-}
+//   & + p {
+//     text-indent: 0;
+//   }
+// }
 
 .archive__item-teaser {
   border-radius: $border-radius;
@@ -124,9 +124,9 @@
     font-size: $type-size-5;
   }
 
-  .archive__item-excerpt {
-    display: none;
-  }
+  // .archive__item-excerpt {
+  //   display: none;
+  // }
 
   @include breakpoint($small) {
     @include gallery(5 of 10);
@@ -144,10 +144,10 @@
       max-height: 120px;
     }
 
-    .archive__item-excerpt {
-      display: block;
-      font-size: $type-size-6;
-    }
+    // .archive__item-excerpt {
+    //   display: block;
+    //   font-size: $type-size-6;
+    // }
   }
 }
 
