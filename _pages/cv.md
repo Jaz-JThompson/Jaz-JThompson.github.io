@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics (with international studies), University of Birmingham, UK 2021
-  * Specialising in nuclear physics and nuclear medicine
+* M.S. **M2** European Master of Science in Nuclear Fusion and Engineering Physics, Universität Stuttgart, Germany, 2023 (Expected)
 * M.S. **M1** European Master of Science in Nuclear Fusion and Engineering Physics, Universidad Carlos III de Madrid (UC3) or Universidad Complutense de Madrid (UCM), Spain, 2022
   * Labratory projects working on the TJ-2 stellerator, numerical simulations and materials for nuclear reactors
-* M.S. **M2** European Master of Science in Nuclear Fusion and Engineering Physics, Universität Stuttgart, Germany, 2023 (Expected)
+* B.S. in Physics (with international studies), University of Birmingham, UK 2021
+  * Specialising in nuclear physics and nuclear medicine
+
 
 Work experience
 ======
